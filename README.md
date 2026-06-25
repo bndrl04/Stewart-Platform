@@ -65,6 +65,8 @@ Timpul scurs între primirea unei comenzi wireless și începutul efectiv al mi�
 
 Arhitectura software permite adăugarea de moduri noi de operare (urmărire de traiectorie, mod demonstrație, control prin IMU) fără restructurarea completă a codului existent. Parametrii geometrici ai platformei (raze, lungimi de tije) sunt configurabili dintr-un singur fișier de configurare.
 
+Momentan se lucreaza la o aplicatie mobile pentru control giroscopic.
+
 ### 3.6 Toleranța la erori de comunicație
 
 În cazul întreruperii conexiunii wireless, platforma revine automat în poziția neutră după un *timeout* configurabil și rămâne stabilă până la restabilirea legăturii.
