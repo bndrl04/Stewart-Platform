@@ -1,6 +1,6 @@
 # Platformă Stewart cu Raspberry Pi Pico
 
-**Studenti:** *Pohrib George-Rafael & Canschi Nicodim*
+**Student:** *Pohrib George-Rafael*
 **Platformă hardware:** Raspberry Pi Pico 2 W
 
 ---
